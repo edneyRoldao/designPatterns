@@ -10,7 +10,7 @@ public class CheeseTopping extends PizzaDecorator {
 	
 	@Override
 	public String getDescription() {
-		return pizza.getDescription() + ", Spinach (4.55)";
+		return pizza.getDescription() + ", Cheese (4.55)";
 	}
 	
 	@Override

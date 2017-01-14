@@ -2,8 +2,6 @@
 .recommenders
 RemoteSystemsTempFiles
 Servers
-.classpath
-.project
 bin/
 tmp/
 *.tmp
